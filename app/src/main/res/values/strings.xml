@@ -16,5 +16,6 @@
     <string name="send_email">Send Email</string>
     <string name="forgetten">Forgetten</string>
     <string name="your_password">your password ?</string>
-    <string name="enter_ur_email">Enter your email address and we would send you a link to reset your password</string>
+    <string name="enter_ur_email">Enter your email address and we would send you a link to reset your password</string>w
+    <string name="already_a_member">Already a member ?</string>
 </resources>
