@@ -11,4 +11,7 @@
     <dimen name="_60dp">60dp</dimen>
     <dimen name="_18sp">18sp</dimen>
     <dimen name="_80dp">80dp</dimen>
+    <dimen name="_105dp">105dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_180dp">180dp</dimen>
 </resources>

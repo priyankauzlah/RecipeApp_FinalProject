@@ -74,8 +74,13 @@ class LoginActivity : AppCompatActivity() {
 
         }
 
-        tv_sign_up_login.setOnClickListener{
+        tv_sign_up_login.setOnClickListener {
             val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
+        }
+
+        tv_forgot_password.setOnClickListener {
+            val intent = Intent(this, ForgetPasswordActivity::class.java)
             startActivity(intent)
         }
     }

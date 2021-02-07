@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.January21FinalProject">
-        <activity android:name=".ForgetPasswordActivity"></activity>
+        <activity android:name=".Check_email"></activity>
+        <activity android:name=".ForgetPasswordActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".LoginActivity">
